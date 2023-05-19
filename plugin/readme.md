@@ -8,4 +8,4 @@ go语言文档介绍
 [plugin](https://pkg.go.dev/plugin)
 
 如何跑起来
-gitpod.io/
+https://gitpod.io/#/github.com/katncandix2/ExtGo
