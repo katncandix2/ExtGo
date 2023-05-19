@@ -5,4 +5,7 @@
 https://www.bilibili.com/video/BV1vB4y1V7gR/?share_source=copy_web&vd_source=40ce99a7103d70bc08f96b5667e9441b
 
 go语言文档介绍
-https://pkg.go.dev/plugin
+[plugin](https://pkg.go.dev/plugin)
+
+如何跑起来
+gitpod.io/
